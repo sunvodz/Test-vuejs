@@ -1,29 +1,16 @@
 # test-vuejs
 
-## Project setup
-```
-yarn install
-```
+1.npm install -g @vue/cli  หรือ yarn global add @vue/cli
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+2.vue create test-vuejs (ตัวเล็กเท่านั้น)
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+3.default (babel, eslint)
 
-### Run your tests
-```
-yarn run test
-```
+4.Yarn OR NPM (แล้วแต่จะใช้)
+- ใช้  Yarn
 
-### Lints and fixes files
-```
-yarn run lint
-```
+5.cd test-vuejs 
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+6.yarn serve
+
+##SUNVODZ##
